@@ -1,0 +1,11 @@
+delete from customer;
+insert into customer (name) values ('Bart Simpson');
+insert into customer (name) values ('Mrs. Glick');
+insert into customer (name) values ('Ralph Wiggum');
+insert into customer (name) values ('Louie');
+insert into customer (name) values ('Chief Clancy Wiggum');
+insert into customer (name) values ('Disco Stu');
+insert into customer (name) values ('Lisa Simpson');
+insert into customer (name) values ('Homer Simpson');
+insert into customer (name) values ('Milhouse');
+insert into customer (name) values ('Sideshow Bob');
